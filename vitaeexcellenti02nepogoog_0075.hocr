@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./vitaeexcellenti02nepogoog_0075.png"; bbox 0 0 3059 4867; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 243 1944 1190 2126">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 243 1944 1190 2132">
+     <span class='ocr_line' id='line_1_1' title="bbox 243 1944 1190 2126; baseline -0.002 -55"><span class='ocrx_word' id='word_1_1' title='bbox 243 1944 726 2071; x_wconf 72' lang='lat' dir='ltr'>CORNELH</span> <span class='ocrx_word' id='word_1_2' title='bbox 777 1950 1190 2126; x_wconf 73' lang='lat' dir='ltr'><strong>NEPOTIS</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 370 2404 895 2613">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 370 2404 895 2613">
+     <span class='ocr_line' id='line_1_2' title="bbox 370 2404 895 2613; baseline -0.002 -39"><span class='ocrx_word' id='word_1_3' title='bbox 370 2404 404 2513; x_wconf 29' lang='lat'><strong>³·</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 544 2438 895 2613; x_wconf 62' lang='lat' dir='ltr'><strong>mm.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1534 4867">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1534 4867">
+     <span class='ocr_line' id='line_1_3' title="bbox 0 0 1534 4867; baseline 0 0"><span class='ocrx_word' id='word_1_5' title='bbox 0 0 1534 4867; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
